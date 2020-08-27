@@ -247,7 +247,7 @@ async function checkSelect(data) {
             getDepartments();
             return startMenu();
         case `Add Department`:
-            createDepartment();
+            await createDepartment();
             return startMenu();
         case `Remove Department`:
             departmentList = await getDepartmentsArr();

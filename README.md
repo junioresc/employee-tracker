@@ -1,6 +1,7 @@
 # Note Taker
 
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE.txt)
+[![Run on Repl.it](https://repl.it/badge/github/junioresc/employee-tracker)](https://repl.it/github/junioresc/employee-tracker)
 
 ## Description
 
